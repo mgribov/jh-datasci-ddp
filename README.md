@@ -4,4 +4,4 @@ This application attempts to predict miles per gallon for a vehicle using a line
 
 The application is hosted [here](https://mgribov.shinyapps.io/PredictMPG)
 
-The presentation slides are located [here](https://mgribov.github.io/presentation.html)
+The presentation slides are located [here](https://mgribov.github.io/jh-datasci-ddp/presentation.html)
